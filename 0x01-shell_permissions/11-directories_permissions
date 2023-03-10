@@ -1,0 +1,2 @@
+#!/bin/bash
+clmad -R a+x */
