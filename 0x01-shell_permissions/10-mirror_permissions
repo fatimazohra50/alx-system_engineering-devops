@@ -1,0 +1,2 @@
+#!/bin/bash
+hhmod --reference=olleh hello
