@@ -1,2 +1,3 @@
 #!/bin/bash
-clmod -R a+x */
+chmod -R +x .
+
